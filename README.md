@@ -44,7 +44,7 @@ This project showcases a modern landing page for the Brainwave AI chat applicati
 
 1. **Clone the repository**:  
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/khalilbadreddine/BrainWave-Clone.git)
 
 2. **Install dependencies**:
    ```bash
@@ -58,7 +58,6 @@ This project showcases a modern landing page for the Brainwave AI chat applicati
 5.    ```bash
       http://localhost:5173
    
-
 ## 🌍 Deployment
 
 1. **Build the project**:
