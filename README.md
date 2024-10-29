@@ -56,13 +56,14 @@ This project showcases a modern landing page for the Brainwave AI chat applicati
    
 4. **View it in your browser**:
 5.    ```bash
-   http://localhost:5173
+      http://localhost:5173
+   
 
 ## 🌍 Deployment
 
 1. **Build the project**:
    ```bash
-   npm run build
+      npm run build
 
 3. **Deploy**:
     - Upload the contents of the dist folder to your hosting provider for a blazing-fast experience 🔥.
